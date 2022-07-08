@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamirySantos
 - 👀 I’m interested in games, books, draw, sports and animals.
 - 🌱 I’m currently learning digital code in bootcamp Code Girls Santander.
-- 💞️ I’m looking to collaborate in my career because i'm transition area.
+- 💞️ I try to collaborate in my career always looking for news because I'm transitioning from area.
 -
 
 <!---
